@@ -5,10 +5,10 @@ xmlns:gep = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app2"
 versiom = "1.0.0">
 
-<name> app2-Especialidad Tecnico en Programación </name>
+<name> app3-Dia Mundial de la Salud </name>
 
 <description> 
-Aplicacion que nos muestra la informacion referente al Dispositivo Movil
+Aplicacion que nos muestra la información referente al Dia Mundial de la Salud
 </description>
 
 <author href="https://build.phonegap.com" email="ja31001@gmail.com">
@@ -33,7 +33,7 @@ José Armando Pedraza Cabrera
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="http://*/*"/>
+<acces origin="http ://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!-- Colocar icono app -->
